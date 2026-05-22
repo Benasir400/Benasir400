@@ -22,16 +22,17 @@
 Languages: Java, JavaScript, SQL
 Frontend: HTML, CSS, ReactJS
 Backend: Spring Boot, REST API
-Database: MySQL
+Database: MySQL, MongoDB
 Tools: Git, GitHub, VS Code, Spring Tool Suite, Figma
 Core Concepts: Data Structures & Algorithms, OOPs, DBMS, Problem Solving
-
 ---
 
 ## 📌 Projects
 
 🔹 AI Resume Screener – AI-based system for screening resumes and matching candidates with job descriptions.
+
 🔹 Furniture Shop Management – ERP system for managing furniture inventory, sales, and customer records.
+
 🔹 Event Management System – Full-stack application for event registration, ticket booking, and payment management.
 
 
