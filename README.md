@@ -33,6 +33,7 @@ Database: MySQL, MongoDB
 Tools: Git, GitHub, VS Code, Spring Tool Suite, Figma
 
 Core Concepts: Data Structures & Algorithms, OOPs, DBMS, Problem Solving
+
 ---
 
 ## 📌 Projects
