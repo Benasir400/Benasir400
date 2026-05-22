@@ -1,8 +1,11 @@
 # Hi, I'm Benasir 👋
 
 💻 BTech IT Student at SKCT
+
 🌱 Aspiring Full Stack Developer
+
 🚀 Passionate about Java, WebDevelopment
+
 📍 Tenkasi, Tamil Nadu, India
 
 ---
@@ -20,10 +23,15 @@
 ## 🛠️ Skills
 
 Languages: Java, JavaScript, SQL
+
 Frontend: HTML, CSS, ReactJS
+
 Backend: Spring Boot, REST API
+
 Database: MySQL, MongoDB
+
 Tools: Git, GitHub, VS Code, Spring Tool Suite, Figma
+
 Core Concepts: Data Structures & Algorithms, OOPs, DBMS, Problem Solving
 ---
 
