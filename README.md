@@ -62,6 +62,7 @@ Core Concepts: Data Structures & Algorithms, OOPs, DBMS, Problem Solving
 * LinkedIn: https://www.linkedin.com/in/benasir-r-330850292/
 * LeetCode: https://leetcode.com/u/Benasir/
 * Email: [bena26875@gmail.com](mailto:bena26875@gmail.com)
+* Portfolio: https://benasir-portfolio.vercel.app/
 
 ---
 
